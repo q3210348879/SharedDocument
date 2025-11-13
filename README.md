@@ -42,7 +42,8 @@
   ```json
   {
     "username": "用户名",
-    "password": "密码"
+    "password": "密码",
+    "remember_me"："记住我"
   }
   ```
 
@@ -51,7 +52,8 @@
   {
     "username": "用户名",
     "email": "邮箱",
-    "password": "密码"
+    "password1": "一次输入密码",
+    "password2": "二次输入密码"
   }
   ```
 
